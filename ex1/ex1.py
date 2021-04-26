@@ -76,7 +76,7 @@ print("Variance = ",vary)
 
 # median_grouped and multimode in the column
 own1 = statistics.median_grouped(li)
-print("Second mode in a column = ",own1)
+print("Median_grouped = ",own1)
 
 own2 = statistics.multimode(li)
 print("Multimode = ",own2)
