@@ -6,7 +6,6 @@ import numpy
 li=[]
 ans=0
 count = 0
-maxx = 0
 
 #file open panrom
 with open("car.csv", "r") as file:
