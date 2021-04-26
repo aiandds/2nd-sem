@@ -24,7 +24,7 @@ print("Total of three columns 'MPG','Cylinders' and 'Horsepower' = ",ans)
 
 print("Number of rows in a dataset = ",count)
 
-# string ahh in ahh convert pandrom in a 'list'
+# string ahh int ahh convert pandrom in a 'list'
 for i in range(0, len(li)):
     li[i] = int(li[i])
 # max and min ahh kandopudikom
