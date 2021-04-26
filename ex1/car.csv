@@ -1,0 +1,21 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin
+Chevrolet Cavalier 2-door,34,4,112,88,2395,18,82,US
+Pontiac J2000 SE Hatchback,31,4,112,85,2575,16.2,82,US
+Dodge Aries SE,29,4,135,84,2525,16,82,US
+Pontiac Phoenix,27,4,151,90,2735,18,82,US
+Ford Fairmont Futura,24,4,140,92,2865,16.4,82,US
+AMC Concord DL,23,4,151,79,3035,20.5,82,US
+Volkswagen Rabbit l,36,4,105,74,1980,15.3,82,Europe
+Mazda GLC Custom l,37,4,91,68,2025,18.2,82,Japan
+Mazda GLC Custom,31,4,91,68,1970,17.6,82,Japan
+Plymouth Horizon Miser,38,4,105,63,2125,14.7,82,US
+Mercury Lynx l,36,4,98,70,2125,17.3,82,US
+Nissan Stanza XE,36,4,120,88,2160,14.5,82,Japan
+Honda Accord,36,4,107,75,2205,14.5,82,Japan
+Toyota Corolla,34,4,108,70,2245,16.9,82,Japan
+Honda Civic,38,4,91,67,1965,15,82,Japan
+Honda Civic (auto),32,4,91,67,1965,15.7,82,Japan
+Datsun 310 GX,38,4,91,67,1995,16.2,82,Japan
+Buick Century Limited,25,6,181,110,2945,16.4,82,US
+Oldsmobile Cutlass Ciera (diesel),38,6,262,85,3015,17,82,US
+Chrysler Lebaron Medallion,26,4,156,92,2585,14.5,82,US
