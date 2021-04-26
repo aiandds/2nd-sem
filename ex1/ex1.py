@@ -74,15 +74,9 @@ print("Standard Deviation = ",sd)
 vary = statistics.variance(li)
 print("Variance = ",vary)
 
-# multimode and second mode in the column
-own1 = statistics.multimode(li)
-print("Multimode = ",own1)
+# median_grouped and multimode in the column
+own1 = statistics.median_grouped(li)
+print("Second mode in a column = ",own1)
 
-rmod = statistics.mode(li)
-
-while (li.count(rmod)):
-    li.remove(rmod)
-
-own2 = statistics.mode(li)
-print("Second mode in a column = ",own2)
-
+own2 = statistics.multimode(li)
+print("Multimode = ",own2)
