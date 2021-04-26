@@ -10,14 +10,14 @@ count = 0
 # open file 
 with open("car.csv", "r") as file:
 
-    car = csv.DictReader(file)
-    
+    car = csv.reader(file)
+    next(car)
     for row in car:
         # print first row 
-        print(row["Car"])
-        li.append(row["Horsepower"])
+        print(row[0])
+        li.append(row[4])
         # adding 3 column 
-        ans += float(row["MPG"]) + float(row["Cylinders"]) + float(row["Horsepower"])
+        ans += float(row[1]) + float(row[2]) + float(row[4])
         # to find tot num of row
         count += 1
 # total of 3 column
@@ -68,7 +68,7 @@ print("Quantile = ",qt)
 nanme = numpy.nanmean(li)
 print("nanmean = ",nanme)
 
-sd = statistics.stdev(li)
+sd = numpy.std(li)
 print("Standard Deviation = ",sd)
 
 vary = statistics.variance(li)
