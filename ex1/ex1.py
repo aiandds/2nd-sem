@@ -15,7 +15,10 @@ with open("car.csv", "r") as file:
     for row in car:
         # print first row 
         print(row[0])
-        li.append(row[4])
+        
+        # adding vale to that list
+        if(row[4] != '0' and row[4] != '' ):
+            li.append(row[4])
         # adding 3 column 
         ans += float(row[1]) + float(row[2]) + float(row[4])
         # to find tot num of row
