@@ -1,1 +1,1 @@
-ex6 will be here
+ex6 will be here soon
