@@ -1,1 +1,1 @@
-ex6 will be here soon
+ex6 code and csv is here 
