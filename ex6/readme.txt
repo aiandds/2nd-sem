@@ -1,1 +1,1 @@
-ex6 code and csv is here 
+# Measurement of Skewness, Moments and Kurtosis
